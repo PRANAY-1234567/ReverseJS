@@ -67,3 +67,6 @@ Take user input dynamically
 👨‍💻 Author
 
 Pranay Jadhao
+
+<img width="667" height="681" alt="image" src="https://github.com/user-attachments/assets/6ea3d7da-a35b-469e-a943-7ec33d90af29" />
+
