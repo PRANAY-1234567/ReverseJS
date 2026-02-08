@@ -1,5 +1,4 @@
 🔁 Reverse a String in JavaScript
-
 📌 Description
 
 This program reverses a given string using JavaScript.
